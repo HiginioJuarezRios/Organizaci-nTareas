@@ -6,6 +6,7 @@ Aplicación web simple con tres columnas:
 - COMPLETADO
 
 ## Ejecutar localmente (con terminal)
+## Cómo verlo en el navegador
 
 1. Abre una terminal en la carpeta del proyecto.
 2. Ejecuta:
